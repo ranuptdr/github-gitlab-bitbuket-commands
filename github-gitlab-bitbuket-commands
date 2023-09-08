@@ -2,15 +2,14 @@
 1.  git config --global user.name "Your Name"
 2.  git config --global user.email "youremail@example.com"
 3.  Git init 
-4.  git remote add origin https://gitlab.com/username/project.git
-5.  git add .
+4.  git remote add origin repolink
 6.  git commit -m "Initial commit"
 7.  git push origin master
 -------------------------gitlab command-------------------------------
 1.  git config --global user.name "Your Name"
 2.  git config --global user.email "youremail@example.com"
 3.  Git init 
-4.  git remote add origin https://gitlab.com/username/project.git
+4.  git remote add origin repolink
 5.  git add .
 6.  git commit -m "Initial commit"
 7.  git push -u origin master
@@ -18,7 +17,7 @@
 1.  git config --global user.name "Your Name"
 2.  git config --global user.email "youremail@example.com"
 3.  Git init 
-4.  git remote add origin https://gitlab.com/username/project.git
+4.  git remote add origin repolink
 5.  git add .
 6.  git commit -m "Initial commit"
 7.  git push -f origin master
