@@ -3,6 +3,7 @@
 2.  git config --global user.email "youremail@example.com"
 3.  Git init 
 4.  git remote add origin repolink
+5.  git add .
 6.  git commit -m "Initial commit"
 7.  git push origin master
 -------------------------gitlab command-------------------------------
